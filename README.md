@@ -81,6 +81,7 @@ Para terminar voy a configurar un mínimo y un máximo de recursos a la cola **d
   > Captura de pantalla de la configuración
   
   [![N|Solid](https://i.ibb.co/Js9HR8G/devProd.png)](https://nodesource.com/products/nsolid)
+
 Una vez que se ha creado, podemos aplicar las siguientes configuraciones.
 
 - **Used Capacity:** 	Capacidad usada en el momento de ejecucion de jobs.
