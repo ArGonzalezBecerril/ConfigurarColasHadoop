@@ -1,6 +1,6 @@
 # Creación de queue mediante el CapacityScheduler
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://image.ibb.co/cxcEV6/powered.png)](https://github.com/ArturoGonzalezBecerril)
 
 El CapacityScheduler tiene una queue defaul denominada **root**, a partir de esta queue default todas las que nosotros vamos a crear pasaran a ser hijos de la principal. Entonces para poder definir una nueva usamos el parametro **yarn.scheduler.capacity.root.queues** este parametro se encuentra en el fichero **capacity-scheduler.xml** 
 ```sh
